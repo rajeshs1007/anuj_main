@@ -5,7 +5,7 @@ import "./App.css"; // Import the CSS file with the container class
 function App() {
   const link1 = "https://comparedata.vercel.app/";
   const link2 = " https://comparedynamicdata.vercel.app/";
-  const link3 = "/link3";
+  // const link3 = "/link3";
 
   return (
     <div className="App">
